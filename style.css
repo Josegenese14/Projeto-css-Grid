@@ -1,0 +1,19 @@
+body{
+   
+}
+
+.menu{
+    width: 218px;
+    height: 968px;
+    display: flex;
+
+}
+.video{
+    
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows:repeat(3, 200px) ;
+    row-gap: 100px;
+    column-gap: 100px;
+
+}
